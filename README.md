@@ -10,14 +10,14 @@ A realistic tracking system for QBCore FiveM servers. Place airtags on players t
 
 ## ✨ Features
 
-- 🎯 **Real-time GPS tracking** - Live blip updates every 5 seconds
-- ⏱️ **30-minute battery life** - Automatically expires and converts to dead airtag
+- 🎯 **Real time GPS tracking** - Live blip updates every 5 seconds
+- ⏱️ **30 minute battery life** - Automatically expires and converts to dead airtag
 - 🗺️ **Dynamic blip names** - Shows remaining time on the map
 - 🔒 **Owner-only tracking** - Only the person who activated it can see the blip
 - 🎨 **Clean UI notifications** - Uses swt_notifications for alerts
 - 📍 **Multiple tracking** - Track players carrying the airtag in their inventory
 - 🔋 **Dead airtag system** - Expired trackers become unusable items
-- 🚫 **Anti-exploit** - Can't activate the same airtag twice
+- 🚫 **Anti exploit** - Can't activate the same airtag twice
 
 ## 📋 Requirements
 
@@ -99,7 +99,7 @@ The script has minimal configuration. To adjust settings, edit `server/main.lua`
 expire = os.time() + 1800 -- Change 1800 to desired seconds (default: 30 minutes)
 ```
 
-And `client/main.lua`:
+And `client/main.lua`: to change the time for blip & blip name time 
 ```lua
 Wait(5000) -- Location update interval (default: 5 seconds)
 Wait(30000) -- Blip name update interval (default: 30 seconds)
@@ -120,23 +120,18 @@ Wait(30000) -- Blip name update interval (default: 30 seconds)
 
 ## 🐛 Bug Reports & Suggestions
 
-Found a bug or have a feature request? Please open an [issue](https://github.com/yourusername/qb-airtag/issues) on GitHub.
+Found a bug or have a feature request? Please open an [issue](https://github.com/rcnrqvet/qb-airtag/issues) !
 
 ## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Fork the repository
-- Create a feature branch
-- Submit a pull request
 
 ## 📝 Changelog
 
 ### Version 1.0.5 (Current)
-- ✅ Real-time tracking system
+- ✅ Real time tracking system
 - ✅ Dynamic blip names with countdown
-- ✅ Auto-expiration to dead airtag
-- ✅ Owner-based tracking
-- ✅ Performance optimized (30s periodic checks)
+- ✅ Auto expiration to dead airtag
+- ✅ Owner only tracking
+- ✅ Performance optimized for less spam (30s periodic checks)
 
 ## 💰 Support
 
@@ -146,7 +141,7 @@ If you find it useful:
 - ⭐ **Star this repository**
 - 🐛 **Report bugs** and suggest features
 
-Need custom FiveM scripts? Contact me on Discord: **rcnrqvet#0000**
+Contact me on Discord for any help: **rcnrqvet#0000**
 
 ## 📜 License
 
