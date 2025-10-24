@@ -123,7 +123,7 @@ Wait(30000) -- Blip name update interval (default: 30 seconds)
 
 - **Vehicle Tracking**: Limited ability to track airtags in vehicle trunks/gloveboxes (FiveM security restriction)
 - **Dropped Items**: Difficult to track dropped airtags in remote areas without nearby players
-- **Best Use Case**: Works perfectly for tracking players with airtag in their inventory
+- **Best Use Case**: Works perfectly for tracking players or vehicles with airtag in their inventory. Will still track if dropped and picked up etc.
 
 ## 🐛 Bug Reports & Suggestions
 
@@ -138,7 +138,7 @@ Found a bug or have a feature request? Please open an [issue](https://github.com
 - ✅ Dynamic blip names with countdown
 - ✅ Auto expiration to dead airtag
 - ✅ Owner only tracking
-- ✅ Performance optimized for less spam (30s periodic checks)
+- ✅ Performance optimized for less spam (30s checks)
 
 ## 💰 Support
 
