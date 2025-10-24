@@ -2,7 +2,7 @@
 
 # 🏷️ QB-Airtag - Vehicle & Player Tracker
 
-A realistic tracking system for QBCore FiveM servers. Place airtags on players to track their real-time location for 30 minutes.
+A realistic tracking system for QBCore FiveM servers. Place airtags on players/objects to track their real time location for 30 minutes.
 
 ![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
 ![QBCore](https://img.shields.io/badge/framework-QBCore-green.svg)
