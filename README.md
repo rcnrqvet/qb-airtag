@@ -86,7 +86,7 @@ ensure qb-airtag
 
 ## 📸 Screenshots
 
-> - <img width="706" height="726" alt="image" src="https://github.com/user-attachments/assets/b05bac19-85ec-4d2e-9892-02b45e412768" />
+> - <img width="107" height="104" alt="image" src="https://github.com/user-attachments/assets/8e81d00b-5e16-40c4-97d4-d796e2e060c9" />
 
 > - <img width="318" height="38" alt="image" src="https://github.com/user-attachments/assets/213166d1-8096-4677-9773-8413fef0e10c" />
 > - <img width="1016" height="525" alt="image" src="https://github.com/user-attachments/assets/55c18a3f-1ba0-4f7b-a3d7-5986cb5efbf4" />
