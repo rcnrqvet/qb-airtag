@@ -23,7 +23,7 @@ A realistic tracking system for QBCore FiveM servers. Place airtags on players/o
 
 - [QBCore Framework](https://github.com/qbcore-framework/qb-core)
 - [qb-inventory](https://github.com/qbcore-framework/qb-inventory) or compatible inventory system
-- [swt_notifications](https://github.com/Switty6/swt_notifications) (optional - can replace with QBCore notifications)
+- [swt_notifications](https://github.com/Switty6/swt_notifications) 
 
 ## 🔧 Installation
 
