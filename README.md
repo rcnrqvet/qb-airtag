@@ -59,7 +59,7 @@ git clone https://github.com/rcnrqvet/qb-airtag.git
 ```
 
 3. **Add images** to your inventory images folder:
-   - <img width="500" height="500" alt="airtag" src="https://github.com/user-attachments/assets/bdd4d753-ca6f-4c64-b570-57ac83cdc19b" />
+   - [airtag.png](https://github.com/user-attachments/assets/bdd4d753-ca6f-4c64-b570-57ac83cdc19b)
    - [airtag_dead.png](https://github.com/user-attachments/assets/0edafc7c-c590-48e1-9c33-0710f3641506")
 
 4. **Add to server.cfg**:
