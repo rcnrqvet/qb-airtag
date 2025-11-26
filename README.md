@@ -59,8 +59,10 @@ git clone https://github.com/rcnrqvet/qb-airtag.git
 ```
 
 3. **Add images** to your inventory images folder:
-   - `airtag.png`
-   - `airtag_dead.png`
+   - `<img width="500" height="500" alt="airtag" src="https://github.com/user-attachments/assets/bdd4d753-ca6f-4c64-b570-57ac83cdc19b" />
+`
+   - `<img width="500" height="500" alt="airtag_dead" src="https://github.com/user-attachments/assets/0edafc7c-c590-48e1-9c33-0710f3641506" />
+`
 
 4. **Add to server.cfg**:
 ```
@@ -129,8 +131,6 @@ Wait(30000) -- Blip name update interval (default: 30 seconds)
 
 Found a bug or have a feature request? Please open an [issue](https://github.com/rcnrqvet/qb-airtag/issues) !
 
-## 🤝 Contributing
-
 ## 📝 Changelog
 
 ### Version 1.0.5 (Current)
@@ -152,7 +152,7 @@ Contact me on Discord for any help: **rcnrqvet#0000**
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
